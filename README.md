@@ -1,4 +1,4 @@
-# ABOUT THIS REPO: Enterprise System Behavior & Risk Prediction Framework
+# ABOUT THIS PROJECT: Enterprise System Behavior & Risk Prediction Framework
 
 - This repository contains two folders: **Case Study A - System Behavior Modeling** and **Case Study B - Cross System Prediction & Validation**. Each folder contains the datasets, documentation, dashboards, and analysis files created for its respective case study.
 
